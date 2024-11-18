@@ -44,6 +44,8 @@ Thank you for considering contributing to HydraSphere! We appreciate your intere
    - Navigate to the original repository and click on **New Pull Request**.
    - Provide a descriptive title and a summary of your changes.
 
+**Note**: Code changes are tracked, and the history is viewable through the version control system to maintain transparency and facilitate reviews.
+
 ## Code Style Guidelines
 - Follow [PEP8](https://www.python.org/dev/peps/pep-0008/) guidelines for Python code.
 - Write clear, concise, and well-documented code.
